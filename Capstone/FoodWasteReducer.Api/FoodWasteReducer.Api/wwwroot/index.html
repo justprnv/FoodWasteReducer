@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Food Waste Reducer</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Food Waste Reducer</h1>
+      <p>Snap your leftovers → detect ingredients → get a recipe with nutrition.</p>
+    </header>
+
+    <main>
+      <section class="card">
+        <h2>1) Upload a photo</h2>
+        <input id="imageInput" type="file" accept="image/*" />
+        <div class="preview">
+          <img id="preview" alt="preview" />
+        </div>
+        <button id="analyzeBtn">Analyze Items</button>
+      </section>
+
+      <section class="card">
+        <h2>2) Detected items</h2>
+        <ul id="itemsList"></ul>
+      </section>
+
+      <section class="card">
+        <h2>3) Generate recipe</h2>
+        <label>Servings <input id="servings" type="number" min="1" value="2" /></label>
+        <button id="recipeBtn">Generate Recipe</button>
+      </section>
+
+      <section class="card">
+        <h2>Result</h2>
+        <div id="result"></div>
+      </section>
+    </main>
+
+    <footer>
+      <span id="status"></span>
+    </footer>
+
+    <script src="/app.js"></script>
+  </body>
+  </html>
+
+

@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/FoodWasteReducer.Api/app.atam7o2gtg.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"atam7o2gtg"},{"Name":"integrity","Value":"sha256-wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE="},{"Name":"label","Value":"_content/FoodWasteReducer.Api/app.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3568"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 03 Sep 2025 15:20:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FoodWasteReducer.Api/app.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3568"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 03 Sep 2025 15:20:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FoodWasteReducer.Api/index.93vn8b2enz.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"93vn8b2enz"},{"Name":"integrity","Value":"sha256-JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg="},{"Name":"label","Value":"_content/FoodWasteReducer.Api/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1278"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 03 Sep 2025 15:20:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FoodWasteReducer.Api/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1278"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 03 Sep 2025 15:20:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FoodWasteReducer.Api/style.4b9y4o6cr2.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4b9y4o6cr2"},{"Name":"integrity","Value":"sha256-YFgJW9UoRwHMnisjQ\u002Bo2Kkfn\u002BawQeId3U4Z07MDlECk="},{"Name":"label","Value":"_content/FoodWasteReducer.Api/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"925"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YFgJW9UoRwHMnisjQ\u002Bo2Kkfn\u002BawQeId3U4Z07MDlECk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 03 Sep 2025 15:20:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FoodWasteReducer.Api/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YFgJW9UoRwHMnisjQ\u002Bo2Kkfn\u002BawQeId3U4Z07MDlECk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"925"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YFgJW9UoRwHMnisjQ\u002Bo2Kkfn\u002BawQeId3U4Z07MDlECk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 03 Sep 2025 15:20:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

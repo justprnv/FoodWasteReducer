@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "X+GBTvm95OPywYB6ClD15VusPARm9Bu5ZdKOiqrOk3A=",
+  "Source": "FoodWasteReducer.Api",
+  "BasePath": "_content/FoodWasteReducer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FoodWasteReducer.Api/wwwroot",
+      "Source": "FoodWasteReducer.Api",
+      "ContentRoot": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/",
+      "BasePath": "_content/FoodWasteReducer.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/6z8d5ygcfh-atam7o2gtg.gz",
+      "SourceId": "FoodWasteReducer.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/FoodWasteReducer.Api",
+      "RelativePath": "app#[.{fingerprint=atam7o2gtg}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7tbn0li729",
+      "Integrity": "i+/IIWKnjuRCyBVnNY6s7ktz6R0TpwIQexcFETcvXwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/app.js"
+    },
+    {
+      "Identity": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/ocahvtsull-93vn8b2enz.gz",
+      "SourceId": "FoodWasteReducer.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/FoodWasteReducer.Api",
+      "RelativePath": "index#[.{fingerprint=93vn8b2enz}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cki7oywgg7",
+      "Integrity": "RMYHKoXHf7jbboYj4rzThQCTwrNv4KQPdyzUzVjTYis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/zkydqyucf7-4b9y4o6cr2.gz",
+      "SourceId": "FoodWasteReducer.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/FoodWasteReducer.Api",
+      "RelativePath": "style#[.{fingerprint=4b9y4o6cr2}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ua6ffg8yl8",
+      "Integrity": "pnw3m/er6RktkuQjjOVnk9UPdvnmXXj5379RtP1GUFI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/style.css"
+    },
+    {
+      "Identity": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/app.js",
+      "SourceId": "FoodWasteReducer.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/",
+      "BasePath": "_content/FoodWasteReducer.Api",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "atam7o2gtg",
+      "Integrity": "wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app.js"
+    },
+    {
+      "Identity": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/index.html",
+      "SourceId": "FoodWasteReducer.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/",
+      "BasePath": "_content/FoodWasteReducer.Api",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "93vn8b2enz",
+      "Integrity": "JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/style.css",
+      "SourceId": "FoodWasteReducer.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/",
+      "BasePath": "_content/FoodWasteReducer.Api",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4b9y4o6cr2",
+      "Integrity": "YFgJW9UoRwHMnisjQ+o2Kkfn+awQeId3U4Z07MDlECk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.atam7o2gtg.js",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/6z8d5ygcfh-atam7o2gtg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000883392226"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+/IIWKnjuRCyBVnNY6s7ktz6R0TpwIQexcFETcvXwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "atam7o2gtg"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE="
+        }
+      ]
+    },
+    {
+      "Route": "app.atam7o2gtg.js",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "atam7o2gtg"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE="
+        }
+      ]
+    },
+    {
+      "Route": "app.atam7o2gtg.js.gz",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/6z8d5ygcfh-atam7o2gtg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+/IIWKnjuRCyBVnNY6s7ktz6R0TpwIQexcFETcvXwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "atam7o2gtg"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i+/IIWKnjuRCyBVnNY6s7ktz6R0TpwIQexcFETcvXwg="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/6z8d5ygcfh-atam7o2gtg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000883392226"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+/IIWKnjuRCyBVnNY6s7ktz6R0TpwIQexcFETcvXwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjheaDzS8LjE4FUxEHwOz4/n25oajVKdmc3Z3SAcpRE="
+        }
+      ]
+    },
+    {
+      "Route": "app.js.gz",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/6z8d5ygcfh-atam7o2gtg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+/IIWKnjuRCyBVnNY6s7ktz6R0TpwIQexcFETcvXwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i+/IIWKnjuRCyBVnNY6s7ktz6R0TpwIQexcFETcvXwg="
+        }
+      ]
+    },
+    {
+      "Route": "index.93vn8b2enz.html",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/ocahvtsull-93vn8b2enz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001748251748"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "571"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RMYHKoXHf7jbboYj4rzThQCTwrNv4KQPdyzUzVjTYis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "93vn8b2enz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg="
+        }
+      ]
+    },
+    {
+      "Route": "index.93vn8b2enz.html",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "93vn8b2enz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg="
+        }
+      ]
+    },
+    {
+      "Route": "index.93vn8b2enz.html.gz",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/ocahvtsull-93vn8b2enz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RMYHKoXHf7jbboYj4rzThQCTwrNv4KQPdyzUzVjTYis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "93vn8b2enz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RMYHKoXHf7jbboYj4rzThQCTwrNv4KQPdyzUzVjTYis="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/ocahvtsull-93vn8b2enz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001748251748"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "571"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RMYHKoXHf7jbboYj4rzThQCTwrNv4KQPdyzUzVjTYis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbGLr0DOhkx4T/QxImkGhk0cxUWuqolkj7qMAfOwUhg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/ocahvtsull-93vn8b2enz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RMYHKoXHf7jbboYj4rzThQCTwrNv4KQPdyzUzVjTYis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RMYHKoXHf7jbboYj4rzThQCTwrNv4KQPdyzUzVjTYis="
+        }
+      ]
+    },
+    {
+      "Route": "style.4b9y4o6cr2.css",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/zkydqyucf7-4b9y4o6cr2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002016129032"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pnw3m/er6RktkuQjjOVnk9UPdvnmXXj5379RtP1GUFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YFgJW9UoRwHMnisjQ+o2Kkfn+awQeId3U4Z07MDlECk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4b9y4o6cr2"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YFgJW9UoRwHMnisjQ+o2Kkfn+awQeId3U4Z07MDlECk="
+        }
+      ]
+    },
+    {
+      "Route": "style.4b9y4o6cr2.css",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YFgJW9UoRwHMnisjQ+o2Kkfn+awQeId3U4Z07MDlECk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4b9y4o6cr2"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YFgJW9UoRwHMnisjQ+o2Kkfn+awQeId3U4Z07MDlECk="
+        }
+      ]
+    },
+    {
+      "Route": "style.4b9y4o6cr2.css.gz",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/zkydqyucf7-4b9y4o6cr2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pnw3m/er6RktkuQjjOVnk9UPdvnmXXj5379RtP1GUFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4b9y4o6cr2"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pnw3m/er6RktkuQjjOVnk9UPdvnmXXj5379RtP1GUFI="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/zkydqyucf7-4b9y4o6cr2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002016129032"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pnw3m/er6RktkuQjjOVnk9UPdvnmXXj5379RtP1GUFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YFgJW9UoRwHMnisjQ+o2Kkfn+awQeId3U4Z07MDlECk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YFgJW9UoRwHMnisjQ+o2Kkfn+awQeId3U4Z07MDlECk="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/wwwroot/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YFgJW9UoRwHMnisjQ+o2Kkfn+awQeId3U4Z07MDlECk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YFgJW9UoRwHMnisjQ+o2Kkfn+awQeId3U4Z07MDlECk="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "/Users/pranavsawant/Projects/Capstone/FoodWasteReducer.Api/FoodWasteReducer.Api/obj/Debug/net9.0/compressed/zkydqyucf7-4b9y4o6cr2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pnw3m/er6RktkuQjjOVnk9UPdvnmXXj5379RtP1GUFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 15:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pnw3m/er6RktkuQjjOVnk9UPdvnmXXj5379RtP1GUFI="
+        }
+      ]
+    }
+  ]
+}
